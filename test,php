@@ -1,6 +1,0 @@
-<?php
-    echo "RAW";
-    echo "<br/>WAR";
-    echo "<br/>ARW";
-    exit;
-?>
